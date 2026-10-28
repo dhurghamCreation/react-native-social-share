@@ -40,6 +40,9 @@ import {
   shareOnFacebook,
   shareOnTwitter,
 } from 'react-native-social-share';
+or 
+// Modern ES6 Import Syntax
+import { shareOnFacebook, shareOnTwitter } from 'react-native-social-share';
 ```
 After doing that you will be able to popup the share views from your own functions. I made two examples below, one for Facebook and one for Twitter
 ``` JavaScript
